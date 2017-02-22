@@ -27,10 +27,10 @@
 
     "autoload": {
         "files": [
-            "src/registration.php"
+            "registration.php"
         ],
         "psr-4": {
-            "WebShopApps\\MatrixRate\\": "src/"
+            "WebShopApps\\MatrixRate\\": ""
         }
     }
 }
